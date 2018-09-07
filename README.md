@@ -22,7 +22,6 @@ it's currently pretty much useless, but if you like you can run it in interactiv
     Compiled with poppler version 0.56.0
     bash-4.4# exit
     exit
-        
 
 ## Build
 
